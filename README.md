@@ -1,3 +1,5 @@
+#Credit to [Vinceliuce](https://github.com/vinceliuice)
+
 <img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> WhiteSur Gtk Theme
 ======
 
