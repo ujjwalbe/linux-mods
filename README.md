@@ -4,7 +4,8 @@
 ======
 
 WhiteSur is a MacOS Big Sur like theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Pantheon, XFCE, Mate, etc.
-
+## Theme Preview
+![gtk](https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/master/pictures/preview-gtk.png)
 ## Info
 
 ### GTK+ 3.20 or later
@@ -69,5 +70,4 @@ For firefox theme visit [Firefox Mods](https://github.com/vinceliuice/WhiteSur-g
 | Wallpaper           | [WhiteSur wallpaper](https://github.com/vinceliuice/WhiteSur-kde/tree/master/wallpaper)| ![wallpaper](pictures/whitesur-wallpaper.png) |
 | Firefox theme       | [WhiteSur firefox theme](https://github.com/vinceliuice/WhiteSur-gtk-theme/tree/master/src/other/firefox)| ![firefox](https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/master/src/other/firefox/preview.png) |
 
-## Theme Preview
-![gtk](https://github.com/vinceliuice/WhiteSur-gtk-theme/pictures/preview-gtk.png)
+
