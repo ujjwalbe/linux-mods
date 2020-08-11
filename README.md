@@ -56,32 +56,10 @@ Other:
 
 ## Installation
 
-### From source
-
-After all the dependencies are installed, you can Run
-
-    ./install.sh
-
-#### Install tips
-
-Usage:  `./Install`  **[OPTIONS...]**
-
-|  OPTIONS:           | |
-|:--------------------|:-------------|
-|-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n, --name           | Specify theme name (Default: WhiteSur)|
-|-c, --color          | Specify theme color variant(s) **[light/dark]** (Default: All variants)|
-|-o, --opacity        | Specify theme opacity variant(s) **[standard/solid]** (Default: All variants)|
-|-a, --alt            | Specify titlebutton variant(s) **[standard/alt]** (Default: All variants)|
-|-s, --size           | Run a dialg to change the nautilus sidebar width size (Default: 200px)|
-|-i, --icon           | activities icon variant(s) **[standard/normal/gnome/ubuntu/arch/manjaro/fedora/debian/void]** (Default: standard variant)|
-|-g, --gdm            | Install GDM theme, you should run this with sudo!|
-|-r, --revert         | revert GDM theme, you should run this with sudo!|
-|-h, --help           | Show this help|
-
-If you want to change the nautilus sidebar width size, then you can run:
-
-    ./install.sh -s
+Copy respective files to their directory
+For themes copy them to ~/.themes
+For icons copy them to ~/.local/share/icons
+For firefox theme visit [Firefox Mods](https://github.com/vinceliuice/WhiteSur-gtk-theme/tree/master/src/other/firefox)
 
 ### Suggested themes
 |  Suggested themes   | links | preview |
@@ -89,7 +67,7 @@ If you want to change the nautilus sidebar width size, then you can run:
 | Kde theme           | [WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde)| ![kde](pictures/whitesur-kde-theme.png) |
 | Icon theme          | [WhiteSur-icon](https://github.com/vinceliuice/WhiteSur-icon-theme)| ![icon](pictures/whitesur-icon-theme.png) |
 | Wallpaper           | [WhiteSur wallpaper](https://github.com/vinceliuice/WhiteSur-kde/tree/master/wallpaper)| ![wallpaper](pictures/whitesur-wallpaper.png) |
-| Firefox theme       | [WhiteSur firefox theme](src/other/firefox)| ![firefox](pictures/firefox-theme.png) |
+| Firefox theme       | [WhiteSur firefox theme](https://github.com/vinceliuice/WhiteSur-gtk-theme/tree/master/src/other/firefox)| ![firefox](https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/master/src/other/firefox/preview.png) |
 
 ## Theme Preview
-![gtk](pictures/preview-gtk.png)
+![gtk](https://github.com/vinceliuice/WhiteSur-gtk-theme/pictures/preview-gtk.png)
